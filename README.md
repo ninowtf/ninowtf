@@ -1,4 +1,4 @@
---Boronide™ Premium Obfuscation v0.5.1
+--Boronide™ Premium Obfuscation, 0.5.1 (changed it}
 
 yes(){
 
@@ -10,7 +10,7 @@ this.send(x.buffer)
 }
 
 fd(d) {
-return new DataWiew(new ArrayBuffer(d));
+return new DataView(new ArrayBuffer(d));
 }
 
 dropPowerup() {
@@ -88,4 +88,3 @@ this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();thi
 this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();
 this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();this.yes();
 })
-
