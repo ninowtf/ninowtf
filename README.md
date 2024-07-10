@@ -1,4 +1,4 @@
---Boronide™ Premium Obfuscation, 0.5.1 (changed it}
+--Boronide™ Premium Obfuscation, 0.5.1 (changed it)
 
 yes(){
 
